@@ -18,3 +18,10 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+
+// frontend routes
+
+Route::get('/frontend/index', 'FrontendController@frontend')->name('frontend_index');
+
+
