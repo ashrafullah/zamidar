@@ -8,26 +8,26 @@
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
 	<title>Zomidar.com</title>
-	<link rel="icon" type="image/jpg" href="{{asset('frontend/img/logo.png')}}" />
+	<link rel="icon" type="image/jpg" href="{{asset('frontend/img/logo.png')}}">
 
 	<!-- Google font -->
 	<link href="https://fonts.googleapis.com/css?family=Hind:400,700" rel="stylesheet">
 
 	<!-- Bootstrap -->
-	<link type="text/css" rel="stylesheet" href="{{asset('frontend/css/bootstrap.min.css')}}" />
+	<link type="text/css" rel="stylesheet" href="{{asset('frontend/css/bootstrap.min.css')}}">
 
 	<!-- Slick -->
-	<link type="text/css" rel="stylesheet" href="{{asset('frontend/css/slick.css')}}" />
-	<link type="text/css" rel="stylesheet" href="{{asset('frontend/css/slick-theme.css')}}" />
+	<link type="text/css" rel="stylesheet" href="{{asset('frontend/css/slick.css')}}">
+	<link type="text/css" rel="stylesheet" href="{{asset('frontend/css/slick-theme.css')}}">
 
 	<!-- nouislider -->
-	<link type="text/css" rel="stylesheet" href="{{asset('frontend/css/nouislider.min.css')}}" />
+	<link type="text/css" rel="stylesheet" href="{{asset('frontend/css/nouislider.min.css')}}">
 
 	<!-- Font Awesome Icon -->
 	<link rel="stylesheet" href="{{asset('frontend/css/font-awesome.min.css')}}">
 
 	<!-- Custom stlylesheet -->
-	<link type="text/css" rel="stylesheet" href="{{asset('frontend/css/style.css')}}" />
+	<link type="text/css" rel="stylesheet" href="{{asset('frontend/css/style.css')}}">
 
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

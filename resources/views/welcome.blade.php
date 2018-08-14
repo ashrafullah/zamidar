@@ -74,6 +74,8 @@
                         <a href="{{ route('login') }}">Login</a>
                         <a href="{{ route('register') }}">Register</a>
                         <a href="{{ route('frontend_index') }}">Frontend</a>
+                        <a href="{{ route('frontend_product_page') }}">product_page</a>
+                        <a href="{{ route('frontend_products') }}">products</a>
 
                     @endauth
                 </div>
